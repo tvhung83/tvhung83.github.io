@@ -39,25 +39,26 @@
          // ...
      });
      var send = function() {
-         var name = document.getElementById('name').value;
-         var email = document.getElementById('email').value;
-         var msg = document.getElementById('message').value;
+         var name = document.getElementById('name');
+         var email = document.getElementById('email');
+         var msg = document.getElementById('message');
          if (!name || !email || !msg) {
              alert('Please enter all required fields!');
-             return;
+             return false;
          }
          firebase.auth().signInAnonymously().catch(function(error) {
              console.log(error.code, error.message);
              alert(error.message);
-             return;
+             return false;
          });
          firebase.database().ref('message/' + Date.now()).set({
-             name: name,
-             email: email,
-             msg: msg
+             name: name.value,
+             email: email.value,
+             msg: msg.value
          });
+         name.value = email.value = msg.value = '';
          alert('Your message has been sent!');
-         return;
+         return false;
      };
     </script>
 </head>
@@ -129,7 +130,7 @@
             <!-- Contact -->
             <article id="contact">
                 <h2 class="major">Contact</h2>
-                <form method="post" action="#" onsubmit="send()">
+                <form id="contact" action="#" onsubmit="return send();">
                     <div class="field half first">
                         <label for="name">Name</label>
                         <input type="text" name="name" id="name" />
@@ -150,7 +151,7 @@
                 <ul class="icons">
                     <li><a href="https://twitter.com/tvhung83" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
                     <li><a href="https://www.facebook.com/tvhung83" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-                    <!-- <li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li> -->
+                    <li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
                     <li><a href="https://github.com/tvhung83" class="icon fa-github"><span class="label">GitHub</span></a></li>
                 </ul>
             </article>
