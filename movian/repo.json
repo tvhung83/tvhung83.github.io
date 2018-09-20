@@ -208,6 +208,7 @@
       "version": "1.1.2"
     },
     {
+      "author": "tvhung83",
       "category": "video",
       "description": "<p>Vaphim.Com - Sẻ Chia Bất Tận, visit <a href=\"https://vaphim.com\">https://vaphim.com</a>",
       "downloadURL": "https://rau.us.to/movian/vap.zip",
@@ -220,10 +221,10 @@
       "version": "0.0.7"
     },
     {
+      "author": "tvhung83",
       "category": "video",
       "description": "<p>HTVC TVoD</a>",
       "downloadURL": "https://rau.us.to/movian/tvod.zip",
-      "homepage": "http://github.com/tvhung83/movian-plugin-tvod",
       "icon": "https://rau.us.to/movian/logo/tvod.png",
       "id": "tvod",
       "showtimeVersion": "5.0",
@@ -231,6 +232,19 @@
       "title": "TVOD",
       "type": "ecmascript",
       "version": "0.0.5"
+    },
+    {
+      "author": "tvhung83",
+      "category": "video",
+      "description": "<p>HDViet – Xem phim online miễn phí chất lượng cao full HD, visit <a href=\"http://movies.hdviet.com\">http://movies.hdviet.com</a>",
+      "downloadURL": "https://rau.us.to/movian/hdv.zip",
+      "icon": "logo.png",
+      "id": "HDViet",
+      "showtimeVersion": "5.0",
+      "synopsis": "HDViet – Xem phim online miễn phí chất lượng cao full HD",
+      "title": "HDViet",
+      "type": "ecmascript",
+      "version": "0.1.5.1"
     },
     {
       "author": "chatocean",
