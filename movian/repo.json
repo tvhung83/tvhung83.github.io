@@ -238,7 +238,7 @@
       "category": "video",
       "description": "<p>HDViet – Xem phim online miễn phí chất lượng cao full HD, visit <a href=\"http://movies.hdviet.com\">http://movies.hdviet.com</a>",
       "downloadURL": "https://rau.us.to/movian/hdv.zip",
-      "icon": "logo.png",
+      "icon": "https://rau.us.to/movian/logo/hdv.png",
       "id": "HDViet",
       "showtimeVersion": "5.0",
       "synopsis": "HDViet – Xem phim online miễn phí chất lượng cao full HD",
