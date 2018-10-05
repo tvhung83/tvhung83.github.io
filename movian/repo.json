@@ -250,14 +250,14 @@
       "author": "chatocean",
       "category": "video",
       "description": "<p>PhimMoi.Net - Xem phim mới chất lượng cao tại <a href=\"https://phimmoi.net\">https://phimmoi.net</a>",
-      "downloadURL": "http://movian.free4viet.com/phimmoi_0.0.3.zip",
+      "downloadURL": "http://movian.free4viet.com/phimmoi_0.0.4.zip",
       "icon": "http://movian.free4viet.com/phimmoi/logo.png",
       "id": "phimmoi",
       "showtimeVersion": "5.0",
       "synopsis": "PhimMoi.Net - Xem phim mới chất lượng cao",
       "title": "Phim Mới",
       "type": "ecmascript",
-      "version": "0.0.3"
+      "version": "0.0.4"
     },
     {
             "id": "phimmedia",
