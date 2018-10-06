@@ -1,4 +1,10 @@
 {
+  "home": {
+    "phim-moi": "Phim Mới",
+    "phim-le": "Phim Lẻ",
+    "phim-bo": "Phim Bộ",
+    "phim-chieu-rap": "Phim Thuyết Minh TVH"
+  },
   "categories": {
     "phim-am-nhac": "Phim Âm Nhạc",
     "phim-chien-tranh": "Phim Chiến Tranh",
