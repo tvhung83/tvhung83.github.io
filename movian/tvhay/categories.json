@@ -1,0 +1,34 @@
+{
+  "categories": {
+    "phim-am-nhac": "Phim Âm Nhạc",
+    "phim-chien-tranh": "Phim Chiến Tranh",
+    "phim-co-trang": "Phim Cổ Trang",
+    "phim-hai": "Phim Hài",
+    "phim-hanh-dong": "Phim Hành động",
+    "phim-hinh-su": "Phim Hình Sự",
+    "phim-hoat-hinh": "Phim Hoạt Hình",
+    "phim-khoa-hoc": "Phim Khoa Học",
+    "phim-kinh-di": "Phim Kinh Dị",
+    "phim-phieu-luu": "Phim Phiêu Lưu",
+    "phim-tam-ly": "Phim Tâm Lý",
+    "phim-than-thoai": "Phim Thần Thoại",
+    "phim-tinh-cam": "Phim Tình Cảm",
+    "phim-tv-show": "Phim TV Show",
+    "phim-vien-tuong": "Phim Viễn Tưởng",
+    "phim-vo-thuat": "Phim Võ Thuật"
+  },
+  "countries": {
+    "quoc-gia/phim-an-do": "Phim Ấn Độ",
+    "quoc-gia/phim-anh": "Phim Anh",
+    "quoc-gia/phim-dai-loan": "Phim Đài Loan",
+    "quoc-gia/phim-han-quoc": "Phim Hàn Quốc",
+    "quoc-gia/phim-hong-kong": "Phim Hồng Kong",
+    "quoc-gia/phim-khac": "Phim Khác",
+    "quoc-gia/phim-my": "Phim Mỹ",
+    "quoc-gia/phim-nhat-ban": "Phim Nhật Bản",
+    "quoc-gia/phim-phap": "Phim Pháp",
+    "quoc-gia/phim-thai-lan": "Phim Thái Lan",
+    "quoc-gia/phim-trung-quoc": "Phim Trung Quốc",
+    "quoc-gia/phim-viet-nam": "Phim Việt Nam"
+  }
+}
