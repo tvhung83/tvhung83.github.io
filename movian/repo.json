@@ -257,7 +257,7 @@
       "synopsis": "Xem phim online hay, xem phim nhanh nhất. TvHay.Org cập nhật liên tục các bộ phim hành động thuyết minh, hàn quốc lồng tiếng, võ thuật đang HOT nhất, xem phim chất lượng HD miễn phí",
       "title": "TVHay",
       "type": "ecmascript",
-      "version": "0.0.2"
+      "version": "0.0.3"
     },
     {
       "author": "chatocean",
@@ -273,18 +273,18 @@
       "version": "0.0.5"
     },
     {
-            "id": "phimmedia",
-            "author": "chatocean",
-            "version": "0.0.8",
-            "type": "ecmascript",
-            "showtimeVersion": "5.0",
-            "title": "Phim Media",
-            "synopsis": "PhimMedia.Tv - Xem phim mới chất lượng cao",
-            "description": "<p>PhimMedia.Tv - Xem phim mới chất lượng cao tại <a href=\"https://phimmedia.tv\">https://phimmedia.tv</a>",
-            "category": "video",
-            "downloadURL": "http://movian.free4viet.com/phimmedia_0.0.8.zip",
-            "icon": "http://movian.free4viet.com/phimmedia/logo.png"
-        }
+      "id": "phimmedia",
+      "author": "chatocean",
+      "version": "0.0.8",
+      "type": "ecmascript",
+      "showtimeVersion": "5.0",
+      "title": "Phim Media",
+      "synopsis": "PhimMedia.Tv - Xem phim mới chất lượng cao",
+      "description": "<p>PhimMedia.Tv - Xem phim mới chất lượng cao tại <a href=\"https://phimmedia.tv\">https://phimmedia.tv</a>",
+      "category": "video",
+      "downloadURL": "http://movian.free4viet.com/phimmedia_0.0.8.zip",
+      "icon": "http://movian.free4viet.com/phimmedia/logo.png"
+    }
   ],
   "version": 1
 }
