@@ -275,7 +275,7 @@
     {
         "id": "bilutv",
         "author": "chatocean",
-        "version": "0.1.1",
+        "version": "0.0.1",
         "type": "ecmascript",
         "showtimeVersion": "5.0",
         "title": "BiLuTV",
