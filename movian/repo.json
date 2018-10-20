@@ -275,14 +275,14 @@
     {
         "id": "bilutv",
         "author": "chatocean",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "type": "ecmascript",
         "showtimeVersion": "5.0",
         "title": "BiLuTV",
         "synopsis": "BiluTV.com - Xem phim nhanh",
         "description": "BiluTV.com - Xem phim nhanh",
         "category": "video",
-        "downloadURL": "http://movian.free4viet.com/bilutv_0.0.1.zip",
+        "downloadURL": "http://movian.free4viet.com/bilutv_0.0.2.zip",
         "icon": "http://movian.free4viet.com/bilutv/logo.png"
     },
     {
