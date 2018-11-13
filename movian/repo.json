@@ -288,14 +288,14 @@
     {
       "id": "phimmedia",
       "author": "chatocean",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "type": "ecmascript",
       "showtimeVersion": "5.0",
       "title": "Phim Media",
       "synopsis": "PhimMedia.Tv - Xem phim mới chất lượng cao",
       "description": "<p>PhimMedia.Tv - Xem phim mới chất lượng cao tại <a href=\"https://phimmedia.tv\">https://phimmedia.tv</a>",
       "category": "video",
-      "downloadURL": "http://movian.free4viet.com/phimmedia_0.1.4.zip",
+      "downloadURL": "http://movian.free4viet.com/phimmedia_0.1.5.zip",
       "icon": "http://movian.free4viet.com/phimmedia/logo.png"
     }
   ],
