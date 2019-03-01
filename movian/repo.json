@@ -260,19 +260,6 @@
       "version": "0.0.4"
     },
     {
-      "author": "chatocean",
-      "category": "video",
-      "description": "<p>PhimMoi.Net - Xem phim mới chất lượng cao tại <a href=\"https://phimmoi.net\">https://phimmoi.net</a>",
-      "downloadURL": "http://movian.free4viet.com/phimmoi_0.0.5.zip",
-      "icon": "http://movian.free4viet.com/phimmoi/logo.png",
-      "id": "phimmoi",
-      "showtimeVersion": "5.0",
-      "synopsis": "PhimMoi.Net - Xem phim mới chất lượng cao",
-      "title": "Phim Mới",
-      "type": "ecmascript",
-      "version": "0.0.5"
-    },
-    {
         "id": "bilutv",
         "author": "chatocean",
         "version": "0.2.0",
@@ -288,14 +275,14 @@
     {
       "id": "phimmedia",
       "author": "chatocean",
-      "version": "0.1.10",
+      "version": "0.1.12",
       "type": "ecmascript",
       "showtimeVersion": "5.0",
       "title": "Phim Media",
       "synopsis": "PhimMedia.Tv - Xem phim mới chất lượng cao",
       "description": "<p>PhimMedia.Tv - Xem phim mới chất lượng cao tại <a href=\"https://phimmedia.tv\">https://phimmedia.tv</a>",
       "category": "video",
-      "downloadURL": "http://movian.free4viet.com/phimmedia_0.1.10.zip",
+      "downloadURL": "http://movian.free4viet.com/phimmedia_0.1.12.zip",
       "icon": "http://movian.free4viet.com/phimmedia/logo.png"
     }
   ],
