@@ -284,6 +284,19 @@
       "category": "video",
       "downloadURL": "http://movian.free4viet.com/phimmedia_0.1.18.zip",
       "icon": "http://movian.free4viet.com/phimmedia/logo.png"
+    },
+    {
+      "author": "tvhung83",
+      "category": "video",
+      "description": "Phim Didibkk – Tải phim mới Fshare 4K – 1080p – 720p Bluray mới nhất",
+      "downloadURL": "https://www.raubap.pw/movian/ddb.zip",
+      "icon": "https://www.raubap.pw/movian/logo/ddb.jpg",
+      "id": "ddb",
+      "showtimeVersion": "5.0",
+      "synopsis": "Phim Didibkk – Tải phim mới Fshare 4K – 1080p – 720p Bluray mới nhất",
+      "title": "Didibkk",
+      "type": "ecmascript",
+      "version": "0.0.1"
     }
   ],
   "version": 1
