@@ -2,7 +2,7 @@
     "movie": {
         "phim-le": "Mới nhất",
         "3d": "3D",
-        "10bit-h265": "H265",
+        "h265": "H265",
         "4k": "4K",
         "bluray-nguyen-goc": "Bluray Nguyên Gốc",
         "game": "Game",
